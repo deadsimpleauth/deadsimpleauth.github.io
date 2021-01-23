@@ -57,8 +57,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dead Simple AuthFI"
-  avatar : "/assets/images/dsa-skull-192.ppng"
+  name   : "Dead Simple Auth"
+  avatar : "/assets/images/dsa-skull-192.png"
   bio    : "Making it dead simple to authenticate humans on the internet"
   links:
 #    - label: "Website"
