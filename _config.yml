@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Dead Simple Auth"
-  avatar : "/assets/images/dsa-skull-192.png"
+  avatar : "/assets/images/dsa-skull-white-200.png"
   bio    : "Making it dead simple to authenticate humans on the internet"
   links:
 #    - label: "Website"
