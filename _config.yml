@@ -19,13 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dead Simple Authentication
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "contrast"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
