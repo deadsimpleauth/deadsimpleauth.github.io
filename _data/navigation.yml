@@ -3,3 +3,5 @@ main:
     url: /news/
   - title: "About"
     url: /about/
+  - title: "Creative Commons"
+    url: /creative-commons/
